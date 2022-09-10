@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Volley Caches</string>
+    <string name="roboto_condensed">sans-serif-condensed</string>
+    <string name="roboto_regular">sans-serif</string>
+</resources>
